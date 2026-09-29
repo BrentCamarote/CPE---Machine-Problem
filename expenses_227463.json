@@ -1,0 +1,28 @@
+{
+    "owner": "BRENT",
+    "password": "123",
+    "account_id": "227463",
+    "balance": 310.0,
+    "session_limit": 25000.0,
+    "transactions": [
+        {
+            "amount": 500.0,
+            "type": "deposit",
+            "category": "Deposit",
+            "description": "Quick Deposit"
+        },
+        {
+            "amount": 200.0,
+            "type": "withdrawal",
+            "category": "Withdrawal",
+            "description": "Cash Withdrawal"
+        },
+        {
+            "amount": 10.0,
+            "type": "transfer_receive",
+            "sender": "DYLAN",
+            "description": "Transfer from DYLAN"
+        }
+    ],
+    "notifications": []
+}

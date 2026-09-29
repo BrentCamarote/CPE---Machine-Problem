@@ -1,0 +1,22 @@
+{
+    "owner": "DYLAN",
+    "password": "543",
+    "account_id": "890545",
+    "balance": 990.0,
+    "session_limit": 10000.0,
+    "transactions": [
+        {
+            "amount": 1000.0,
+            "type": "deposit",
+            "category": "Deposit",
+            "description": "Quick Deposit"
+        },
+        {
+            "amount": 10.0,
+            "type": "transfer_send",
+            "recipient": "BRENT",
+            "description": "Transfer to BRENT"
+        }
+    ],
+    "notifications": []
+}
